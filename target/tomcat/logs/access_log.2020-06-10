@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:12:04:04 +0530] "GET /giftcardfinal HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:12:04:05 +0530] "GET /giftcardfinal/ HTTP/1.1" 500 4192 http-bio-8080-exec-3 1242
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:12:04:09 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:18:10:04 +0530] "GET /giftcardfinal HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:18:10:04 +0530] "GET /giftcardfinal/ HTTP/1.1" 500 4192 http-bio-8080-exec-3 47
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:18:10:05 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:18:18:29 +0530] "GET /giftcardfinal/ HTTP/1.1" 500 4192 http-bio-8080-exec-1 87
+0:0:0:0:0:0:0:1 - - [10/Jun/2020:18:21:24 +0530] "GET /giftcardfinal/ HTTP/1.1" 500 4192 http-bio-8080-exec-1 71

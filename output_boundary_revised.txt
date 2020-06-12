@@ -1,0 +1,7 @@
+
+testRecipientNameLength=true
+testPasswordLength=true
+testOrderId=true
+testPincodeNumber=true
+testBuyerNameLength=true
+testRecipientMobileNo=true

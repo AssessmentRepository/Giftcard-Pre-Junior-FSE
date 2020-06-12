@@ -1,0 +1,10 @@
+
+testDeleteBuyer=false
+testDeleteOrder=false
+testGetBuyer=false
+testGetOrder=false
+testSaveRecipient=false
+testSaveBuyer=false
+testSaveOrder=false
+testDeleteRecipient=false
+testGetRecipient=false

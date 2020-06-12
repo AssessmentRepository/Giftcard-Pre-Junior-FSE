@@ -1,0 +1,3 @@
+
+testForBuyerLogin=false
+testForBuyerRegistration=false
